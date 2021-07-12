@@ -1,15 +1,15 @@
 # Welcome to the Inaugural Oscats Hackathon
 
-The purpose of these challenges are to help teach an aspect of programming to anyone with either a physical or virtual robot. Each of these tutorials will assume software is either installed on your machine (If you are using the team's computers, it should be.).
+The purpose of these challenges are to help teach an aspect of programming to anyone with either a physical or virtual robot. Each of these tutorials will assume software is either installed on your machine (If you are using the team's computers, it should be).
 
 The options:
 
-## 1) FRC Robots
+## 1) [FRC Robots](Robots/ReadMe.md)
 
 a) The full-sized robot (or base) <- Language: Java, Python, or CPP
 b) The Romi mini bot<- Java or CPP
 
-## 2) Non-FRC Mini Bots
+## 2) [Non-FRC Mini Bots](Robots/ReadMe.md)
 
 a) The Maqueen Plus <- Language: Makecode, Block, Javascript, or Python
 
@@ -36,16 +36,16 @@ Regardless of platform, if you make it through this hackathon, you will earn sup
 
 ## Bonus Challenges
 
-- Learn and implement PID
-- Use a camera for tracking an object (or going to a target)
+- Learn and implement [PID](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/pid-video.html)
+- Use a camera for [tracking an object](https://docs.limelightvision.io/en/latest/cs_aiming.html) (or [going to a target](https://docs.limelightvision.io/en/latest/cs_aimandrange.html))
   
 ---
 
 ## Non-robot related Challenges
 
-- Make a Google Site
+- Make a [Google Site](https://www.youtube.com/watch?v=5BhCVvFWEtE)
 - Learn a programming language
   - Java, Python, Javascript, CPP
-- Git Capture the Flag
+- Git [Capture the Flag](Non-Robot/Github/ReadMe.md)
 
 ---

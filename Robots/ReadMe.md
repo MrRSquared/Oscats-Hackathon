@@ -62,10 +62,16 @@ Drive your robot 3 lengths forward, but make sure it stops before it hits the wa
 
 **You made once again, but the Aliens are still right on your tail.** Using a joystick, or physically picking up your robot (depending on your robot), turn it 90 degrees. Repeat the above exercise to drive to the end of the wall using encoder ticks.
 
-Hint:
+<details>
+<summary> Hint: </summary> 
 In order to accomplish this, find out how many ticks it takes to drive a specific distance and then how much distance is involved in getting to the end of the wall. You may ask Mr. R^2 for help determining the distance per tick. Or, you may use the formula below.
 
+
+This works, because as the wheel turns, it rolls its distance out on the ground. The relationship between the distance the outside turns and the inside is a ratio. So, we can use the following formula.
+
 distance per pulse = (pi*wheelDiameter)/encoderCountsPerRevolution
+
+</details>
 
 ## Level 4
 
@@ -80,6 +86,7 @@ distance per pulse = (pi*wheelDiameter)/encoderCountsPerRevolution
 **As you leave the room, you notice your robot is warped onto the Alien's spaceship. Their walls are invisible, yet, for some reason, they provided a marking on the floor to help you navigate to an escape.** Using electrical tape, mark the game field with the pattern you see below. Use a line sensor to help you get to the escape hatch.
 
 <details> 
+
 <summary> <b>Hint</b> </summary> 
  - You may use the Maqueen line sensor tutorial to help you build your algorithm. <br>
  - If you are using an FRC robot, you can use our Vex Line Sensors to navigate your way out.
@@ -99,8 +106,5 @@ Put aliens in the spots marked with an X. Use a rangefinder to help you navigate
  - If you are using an FRC robot, you can use our Maxbotics Analog distance Sensors to navigate your way out.
 </details>
 
-  
 ---
 Congratulations: You have escaped
-
-
