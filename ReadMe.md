@@ -26,12 +26,11 @@ We are trying this out. It has all of the sensors and tutorials to learn each pr
 Regardless of platform, if you make it through this hackathon, you will earn supreme bragging rights, a customized button, and special stickers. You will also learn the following concepts...
 
 - Make a robot move
-- Make it stop after a certain time (Dead Rekconing)
+- Make it stop after a certain time (Dead Reckoning)
 - Make it stop after a specific distance (using an encoder)
-- Turn to reach a target
+- Turn to reach a target angle.
 - Use a line sensor
 - Use a rangefinder
-- Turn to an angle
   
 ---
 
